@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LanguageEnglish" xml:space="preserve">
-    <value>English</value>
+    <value>Anglais</value>
   </data>
   <data name="LanguageFrench" xml:space="preserve">
-    <value>French</value>
+    <value>Français</value>
   </data>
   <data name="LanguageSpanish" xml:space="preserve">
-    <value>Spanish</value>
+    <value>Espagnol</value>
   </data>
   <data name="LanguageWolof" xml:space="preserve">
     <value>Wolof</value>
