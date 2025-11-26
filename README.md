@@ -239,10 +239,10 @@ Instructions d'exécution :
 ## Conclusion
 
 Ce TD a permis de :
-- ✅ Configurer un environnement de développement .NET
-- ✅ Analyser une application ASP.NET Core existante
-- ✅ Identifier des bugs critiques (calcul du panier) et moyens (traduction)
-- ✅ Utiliser efficacement le débogueur avec différents modes de navigation
-- ✅ Comprendre le flux d'exécution d'une application web MVC
-- ✅ Gérer le code source avec Git et GitHub
-- ✅ Déployer une application .NET en exécutable Windows
+-  Configurer un environnement de développement .NET
+-  Analyser une application ASP.NET Core existante
+-  Identifier des bugs critiques (calcul du panier) et moyens (traduction)
+-  Utiliser efficacement le débogueur avec différents modes de navigation
+-  Comprendre le flux d'exécution d'une application web MVC
+-  Gérer le code source avec Git et GitHub
+-  Déployer une application .NET en exécutable Windows
